@@ -1,0 +1,1134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A0BB96-EB2C-4F5D-B5AC-12F05632E38D}|SmartTabbibk.AI.Training\\SmartTabbibk.AI.Training.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.ai.training\\batchevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4A0BB96-EB2C-4F5D-B5AC-12F05632E38D}|SmartTabbibk.AI.Training\\SmartTabbibk.AI.Training.csproj|solutionrelative:smarttabbibk.ai.training\\batchevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A0BB96-EB2C-4F5D-B5AC-12F05632E38D}|SmartTabbibk.AI.Training\\SmartTabbibk.AI.Training.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.ai.training\\prioritymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4A0BB96-EB2C-4F5D-B5AC-12F05632E38D}|SmartTabbibk.AI.Training\\SmartTabbibk.AI.Training.csproj|solutionrelative:smarttabbibk.ai.training\\prioritymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A0BB96-EB2C-4F5D-B5AC-12F05632E38D}|SmartTabbibk.AI.Training\\SmartTabbibk.AI.Training.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.ai.training\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4A0BB96-EB2C-4F5D-B5AC-12F05632E38D}|SmartTabbibk.AI.Training\\SmartTabbibk.AI.Training.csproj|solutionrelative:smarttabbibk.ai.training\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A0BB96-EB2C-4F5D-B5AC-12F05632E38D}|SmartTabbibk.AI.Training\\SmartTabbibk.AI.Training.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.ai.training\\smarttabbibk.ai.training.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F4A0BB96-EB2C-4F5D-B5AC-12F05632E38D}|SmartTabbibk.AI.Training\\SmartTabbibk.AI.Training.csproj|solutionrelative:smarttabbibk.ai.training\\smarttabbibk.ai.training.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7161D30E-C092-48C2-99D8-55C75B16C32E}|SmartTabbibk.Infrastructure\\SmartTabbibk.Infrastructure.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.infrastructure\\smarttabbibk.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7161D30E-C092-48C2-99D8-55C75B16C32E}|SmartTabbibk.Infrastructure\\SmartTabbibk.Infrastructure.csproj|solutionrelative:smarttabbibk.infrastructure\\smarttabbibk.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74671BC1-15C9-4602-977D-4853E14B5101}|SmartTabbibk.API\\SmartTabbibk.API.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74671BC1-15C9-4602-977D-4853E14B5101}|SmartTabbibk.API\\SmartTabbibk.API.csproj|solutionrelative:smarttabbibk.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7161D30E-C092-48C2-99D8-55C75B16C32E}|SmartTabbibk.Infrastructure\\SmartTabbibk.Infrastructure.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.infrastructure\\services\\aipriorityevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7161D30E-C092-48C2-99D8-55C75B16C32E}|SmartTabbibk.Infrastructure\\SmartTabbibk.Infrastructure.csproj|solutionrelative:smarttabbibk.infrastructure\\services\\aipriorityevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7161D30E-C092-48C2-99D8-55C75B16C32E}|SmartTabbibk.Infrastructure\\SmartTabbibk.Infrastructure.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7161D30E-C092-48C2-99D8-55C75B16C32E}|SmartTabbibk.Infrastructure\\SmartTabbibk.Infrastructure.csproj|solutionrelative:smarttabbibk.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74671BC1-15C9-4602-977D-4853E14B5101}|SmartTabbibk.API\\SmartTabbibk.API.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74671BC1-15C9-4602-977D-4853E14B5101}|SmartTabbibk.API\\SmartTabbibk.API.csproj|solutionrelative:smarttabbibk.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB76C657-2878-4ABB-B579-8BA49F8CBC06}|SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.domain\\smarttabbibk.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB76C657-2878-4ABB-B579-8BA49F8CBC06}|SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj|solutionrelative:smarttabbibk.domain\\smarttabbibk.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C556DA15-BD40-448A-9E3F-69EA238DE169}|SmartTabbibk.Desktop\\SmartTabbibk.Desktop.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.desktop\\smarttabbibk.desktop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C556DA15-BD40-448A-9E3F-69EA238DE169}|SmartTabbibk.Desktop\\SmartTabbibk.Desktop.csproj|solutionrelative:smarttabbibk.desktop\\smarttabbibk.desktop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74671BC1-15C9-4602-977D-4853E14B5101}|SmartTabbibk.API\\SmartTabbibk.API.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.api\\smarttabbibk.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{74671BC1-15C9-4602-977D-4853E14B5101}|SmartTabbibk.API\\SmartTabbibk.API.csproj|solutionrelative:smarttabbibk.api\\smarttabbibk.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C556DA15-BD40-448A-9E3F-69EA238DE169}|SmartTabbibk.Desktop\\SmartTabbibk.Desktop.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.desktop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C556DA15-BD40-448A-9E3F-69EA238DE169}|SmartTabbibk.Desktop\\SmartTabbibk.Desktop.csproj|solutionrelative:smarttabbibk.desktop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F776CD73-1C6F-4404-9BB7-B5CB1A990CA8}|SmartTabbibk.Application\\SmartTabbibk.Application.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.application\\smarttabbibk.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F776CD73-1C6F-4404-9BB7-B5CB1A990CA8}|SmartTabbibk.Application\\SmartTabbibk.Application.csproj|solutionrelative:smarttabbibk.application\\smarttabbibk.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702A21AE-6E1E-4AE6-970C-DE69BD30BEA5}|SmartTabbibk.Tests\\SmartTabbibk.Tests.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.tests\\integrationtests\\apiintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702A21AE-6E1E-4AE6-970C-DE69BD30BEA5}|SmartTabbibk.Tests\\SmartTabbibk.Tests.csproj|solutionrelative:smarttabbibk.tests\\integrationtests\\apiintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74671BC1-15C9-4602-977D-4853E14B5101}|SmartTabbibk.API\\SmartTabbibk.API.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74671BC1-15C9-4602-977D-4853E14B5101}|SmartTabbibk.API\\SmartTabbibk.API.csproj|solutionrelative:smarttabbibk.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74671BC1-15C9-4602-977D-4853E14B5101}|SmartTabbibk.API\\SmartTabbibk.API.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.api\\smarttabbibk.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{74671BC1-15C9-4602-977D-4853E14B5101}|SmartTabbibk.API\\SmartTabbibk.API.csproj|solutionrelative:smarttabbibk.api\\smarttabbibk.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74671BC1-15C9-4602-977D-4853E14B5101}|SmartTabbibk.API\\SmartTabbibk.API.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74671BC1-15C9-4602-977D-4853E14B5101}|SmartTabbibk.API\\SmartTabbibk.API.csproj|solutionrelative:smarttabbibk.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C556DA15-BD40-448A-9E3F-69EA238DE169}|SmartTabbibk.Desktop\\SmartTabbibk.Desktop.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.desktop\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C556DA15-BD40-448A-9E3F-69EA238DE169}|SmartTabbibk.Desktop\\SmartTabbibk.Desktop.csproj|solutionrelative:smarttabbibk.desktop\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C556DA15-BD40-448A-9E3F-69EA238DE169}|SmartTabbibk.Desktop\\SmartTabbibk.Desktop.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.desktop\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C556DA15-BD40-448A-9E3F-69EA238DE169}|SmartTabbibk.Desktop\\SmartTabbibk.Desktop.csproj|solutionrelative:smarttabbibk.desktop\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C556DA15-BD40-448A-9E3F-69EA238DE169}|SmartTabbibk.Desktop\\SmartTabbibk.Desktop.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.desktop\\services\\catalogservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C556DA15-BD40-448A-9E3F-69EA238DE169}|SmartTabbibk.Desktop\\SmartTabbibk.Desktop.csproj|solutionrelative:smarttabbibk.desktop\\services\\catalogservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C556DA15-BD40-448A-9E3F-69EA238DE169}|SmartTabbibk.Desktop\\SmartTabbibk.Desktop.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.desktop\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C556DA15-BD40-448A-9E3F-69EA238DE169}|SmartTabbibk.Desktop\\SmartTabbibk.Desktop.csproj|solutionrelative:smarttabbibk.desktop\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C556DA15-BD40-448A-9E3F-69EA238DE169}|SmartTabbibk.Desktop\\SmartTabbibk.Desktop.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.desktop\\models\\catalogmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C556DA15-BD40-448A-9E3F-69EA238DE169}|SmartTabbibk.Desktop\\SmartTabbibk.Desktop.csproj|solutionrelative:smarttabbibk.desktop\\models\\catalogmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C556DA15-BD40-448A-9E3F-69EA238DE169}|SmartTabbibk.Desktop\\SmartTabbibk.Desktop.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.desktop\\models\\doctormodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C556DA15-BD40-448A-9E3F-69EA238DE169}|SmartTabbibk.Desktop\\SmartTabbibk.Desktop.csproj|solutionrelative:smarttabbibk.desktop\\models\\doctormodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C556DA15-BD40-448A-9E3F-69EA238DE169}|SmartTabbibk.Desktop\\SmartTabbibk.Desktop.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.desktop\\services\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C556DA15-BD40-448A-9E3F-69EA238DE169}|SmartTabbibk.Desktop\\SmartTabbibk.Desktop.csproj|solutionrelative:smarttabbibk.desktop\\services\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702A21AE-6E1E-4AE6-970C-DE69BD30BEA5}|SmartTabbibk.Tests\\SmartTabbibk.Tests.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.tests\\fakes\\otherfakes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702A21AE-6E1E-4AE6-970C-DE69BD30BEA5}|SmartTabbibk.Tests\\SmartTabbibk.Tests.csproj|solutionrelative:smarttabbibk.tests\\fakes\\otherfakes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702A21AE-6E1E-4AE6-970C-DE69BD30BEA5}|SmartTabbibk.Tests\\SmartTabbibk.Tests.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.tests\\fakes\\fakeappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702A21AE-6E1E-4AE6-970C-DE69BD30BEA5}|SmartTabbibk.Tests\\SmartTabbibk.Tests.csproj|solutionrelative:smarttabbibk.tests\\fakes\\fakeappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702A21AE-6E1E-4AE6-970C-DE69BD30BEA5}|SmartTabbibk.Tests\\SmartTabbibk.Tests.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.tests\\unittests\\medicineservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702A21AE-6E1E-4AE6-970C-DE69BD30BEA5}|SmartTabbibk.Tests\\SmartTabbibk.Tests.csproj|solutionrelative:smarttabbibk.tests\\unittests\\medicineservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702A21AE-6E1E-4AE6-970C-DE69BD30BEA5}|SmartTabbibk.Tests\\SmartTabbibk.Tests.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.tests\\unittests\\appointmentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702A21AE-6E1E-4AE6-970C-DE69BD30BEA5}|SmartTabbibk.Tests\\SmartTabbibk.Tests.csproj|solutionrelative:smarttabbibk.tests\\unittests\\appointmentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74671BC1-15C9-4602-977D-4853E14B5101}|SmartTabbibk.API\\SmartTabbibk.API.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74671BC1-15C9-4602-977D-4853E14B5101}|SmartTabbibk.API\\SmartTabbibk.API.csproj|solutionrelative:smarttabbibk.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F776CD73-1C6F-4404-9BB7-B5CB1A990CA8}|SmartTabbibk.Application\\SmartTabbibk.Application.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.application\\dtos\\medicines\\medicinedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F776CD73-1C6F-4404-9BB7-B5CB1A990CA8}|SmartTabbibk.Application\\SmartTabbibk.Application.csproj|solutionrelative:smarttabbibk.application\\dtos\\medicines\\medicinedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F776CD73-1C6F-4404-9BB7-B5CB1A990CA8}|SmartTabbibk.Application\\SmartTabbibk.Application.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.application\\interfaces\\imedicineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F776CD73-1C6F-4404-9BB7-B5CB1A990CA8}|SmartTabbibk.Application\\SmartTabbibk.Application.csproj|solutionrelative:smarttabbibk.application\\interfaces\\imedicineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F776CD73-1C6F-4404-9BB7-B5CB1A990CA8}|SmartTabbibk.Application\\SmartTabbibk.Application.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.application\\dtos\\prescriptions\\prescriptiondtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F776CD73-1C6F-4404-9BB7-B5CB1A990CA8}|SmartTabbibk.Application\\SmartTabbibk.Application.csproj|solutionrelative:smarttabbibk.application\\dtos\\prescriptions\\prescriptiondtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F776CD73-1C6F-4404-9BB7-B5CB1A990CA8}|SmartTabbibk.Application\\SmartTabbibk.Application.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.application\\dtos\\medicalrecords\\medicalrecorddtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F776CD73-1C6F-4404-9BB7-B5CB1A990CA8}|SmartTabbibk.Application\\SmartTabbibk.Application.csproj|solutionrelative:smarttabbibk.application\\dtos\\medicalrecords\\medicalrecorddtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74671BC1-15C9-4602-977D-4853E14B5101}|SmartTabbibk.API\\SmartTabbibk.API.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.api\\controllers\\prescriptionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74671BC1-15C9-4602-977D-4853E14B5101}|SmartTabbibk.API\\SmartTabbibk.API.csproj|solutionrelative:smarttabbibk.api\\controllers\\prescriptionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB76C657-2878-4ABB-B579-8BA49F8CBC06}|SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.domain\\interfaces\\ispecialtyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB76C657-2878-4ABB-B579-8BA49F8CBC06}|SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj|solutionrelative:smarttabbibk.domain\\interfaces\\ispecialtyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB76C657-2878-4ABB-B579-8BA49F8CBC06}|SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.domain\\interfaces\\imedicalrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB76C657-2878-4ABB-B579-8BA49F8CBC06}|SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj|solutionrelative:smarttabbibk.domain\\interfaces\\imedicalrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB76C657-2878-4ABB-B579-8BA49F8CBC06}|SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.domain\\interfaces\\imedicinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB76C657-2878-4ABB-B579-8BA49F8CBC06}|SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj|solutionrelative:smarttabbibk.domain\\interfaces\\imedicinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB76C657-2878-4ABB-B579-8BA49F8CBC06}|SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB76C657-2878-4ABB-B579-8BA49F8CBC06}|SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj|solutionrelative:smarttabbibk.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB76C657-2878-4ABB-B579-8BA49F8CBC06}|SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.domain\\interfaces\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB76C657-2878-4ABB-B579-8BA49F8CBC06}|SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj|solutionrelative:smarttabbibk.domain\\interfaces\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB76C657-2878-4ABB-B579-8BA49F8CBC06}|SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.domain\\interfaces\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB76C657-2878-4ABB-B579-8BA49F8CBC06}|SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj|solutionrelative:smarttabbibk.domain\\interfaces\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB76C657-2878-4ABB-B579-8BA49F8CBC06}|SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.domain\\interfaces\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB76C657-2878-4ABB-B579-8BA49F8CBC06}|SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj|solutionrelative:smarttabbibk.domain\\interfaces\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB76C657-2878-4ABB-B579-8BA49F8CBC06}|SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB76C657-2878-4ABB-B579-8BA49F8CBC06}|SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj|solutionrelative:smarttabbibk.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB76C657-2878-4ABB-B579-8BA49F8CBC06}|SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.domain\\entities\\specialty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB76C657-2878-4ABB-B579-8BA49F8CBC06}|SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj|solutionrelative:smarttabbibk.domain\\entities\\specialty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB76C657-2878-4ABB-B579-8BA49F8CBC06}|SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.domain\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB76C657-2878-4ABB-B579-8BA49F8CBC06}|SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj|solutionrelative:smarttabbibk.domain\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB76C657-2878-4ABB-B579-8BA49F8CBC06}|SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.domain\\entities\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB76C657-2878-4ABB-B579-8BA49F8CBC06}|SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj|solutionrelative:smarttabbibk.domain\\entities\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB76C657-2878-4ABB-B579-8BA49F8CBC06}|SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.domain\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB76C657-2878-4ABB-B579-8BA49F8CBC06}|SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj|solutionrelative:smarttabbibk.domain\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB76C657-2878-4ABB-B579-8BA49F8CBC06}|SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB76C657-2878-4ABB-B579-8BA49F8CBC06}|SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj|solutionrelative:smarttabbibk.domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB76C657-2878-4ABB-B579-8BA49F8CBC06}|SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.domain\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB76C657-2878-4ABB-B579-8BA49F8CBC06}|SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj|solutionrelative:smarttabbibk.domain\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB76C657-2878-4ABB-B579-8BA49F8CBC06}|SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.domain\\entities\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB76C657-2878-4ABB-B579-8BA49F8CBC06}|SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj|solutionrelative:smarttabbibk.domain\\entities\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB76C657-2878-4ABB-B579-8BA49F8CBC06}|SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.domain\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB76C657-2878-4ABB-B579-8BA49F8CBC06}|SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj|solutionrelative:smarttabbibk.domain\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F776CD73-1C6F-4404-9BB7-B5CB1A990CA8}|SmartTabbibk.Application\\SmartTabbibk.Application.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F776CD73-1C6F-4404-9BB7-B5CB1A990CA8}|SmartTabbibk.Application\\SmartTabbibk.Application.csproj|solutionrelative:smarttabbibk.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F776CD73-1C6F-4404-9BB7-B5CB1A990CA8}|SmartTabbibk.Application\\SmartTabbibk.Application.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.application\\dtos\\doctors\\admindtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F776CD73-1C6F-4404-9BB7-B5CB1A990CA8}|SmartTabbibk.Application\\SmartTabbibk.Application.csproj|solutionrelative:smarttabbibk.application\\dtos\\doctors\\admindtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F776CD73-1C6F-4404-9BB7-B5CB1A990CA8}|SmartTabbibk.Application\\SmartTabbibk.Application.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.application\\dtos\\auth\\logindtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F776CD73-1C6F-4404-9BB7-B5CB1A990CA8}|SmartTabbibk.Application\\SmartTabbibk.Application.csproj|solutionrelative:smarttabbibk.application\\dtos\\auth\\logindtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F776CD73-1C6F-4404-9BB7-B5CB1A990CA8}|SmartTabbibk.Application\\SmartTabbibk.Application.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.application\\dtos\\appointments\\appointmentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F776CD73-1C6F-4404-9BB7-B5CB1A990CA8}|SmartTabbibk.Application\\SmartTabbibk.Application.csproj|solutionrelative:smarttabbibk.application\\dtos\\appointments\\appointmentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F776CD73-1C6F-4404-9BB7-B5CB1A990CA8}|SmartTabbibk.Application\\SmartTabbibk.Application.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.application\\features\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F776CD73-1C6F-4404-9BB7-B5CB1A990CA8}|SmartTabbibk.Application\\SmartTabbibk.Application.csproj|solutionrelative:smarttabbibk.application\\features\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB76C657-2878-4ABB-B579-8BA49F8CBC06}|SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.domain\\entities\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB76C657-2878-4ABB-B579-8BA49F8CBC06}|SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj|solutionrelative:smarttabbibk.domain\\entities\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Infrastructure\\Migrations\\20260820215516_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SmartTabbibk.Infrastructure\\Migrations\\20260820215516_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Infrastructure\\Migrations\\20260820214224_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SmartTabbibk.Infrastructure\\Migrations\\20260820214224_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F776CD73-1C6F-4404-9BB7-B5CB1A990CA8}|SmartTabbibk.Application\\SmartTabbibk.Application.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.application\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F776CD73-1C6F-4404-9BB7-B5CB1A990CA8}|SmartTabbibk.Application\\SmartTabbibk.Application.csproj|solutionrelative:smarttabbibk.application\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F776CD73-1C6F-4404-9BB7-B5CB1A990CA8}|SmartTabbibk.Application\\SmartTabbibk.Application.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.application\\dtos\\auth\\registerdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F776CD73-1C6F-4404-9BB7-B5CB1A990CA8}|SmartTabbibk.Application\\SmartTabbibk.Application.csproj|solutionrelative:smarttabbibk.application\\dtos\\auth\\registerdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7161D30E-C092-48C2-99D8-55C75B16C32E}|SmartTabbibk.Infrastructure\\SmartTabbibk.Infrastructure.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7161D30E-C092-48C2-99D8-55C75B16C32E}|SmartTabbibk.Infrastructure\\SmartTabbibk.Infrastructure.csproj|solutionrelative:smarttabbibk.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7161D30E-C092-48C2-99D8-55C75B16C32E}|SmartTabbibk.Infrastructure\\SmartTabbibk.Infrastructure.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.infrastructure\\services\\manualpriorityevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7161D30E-C092-48C2-99D8-55C75B16C32E}|SmartTabbibk.Infrastructure\\SmartTabbibk.Infrastructure.csproj|solutionrelative:smarttabbibk.infrastructure\\services\\manualpriorityevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7161D30E-C092-48C2-99D8-55C75B16C32E}|SmartTabbibk.Infrastructure\\SmartTabbibk.Infrastructure.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7161D30E-C092-48C2-99D8-55C75B16C32E}|SmartTabbibk.Infrastructure\\SmartTabbibk.Infrastructure.csproj|solutionrelative:smarttabbibk.infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7161D30E-C092-48C2-99D8-55C75B16C32E}|SmartTabbibk.Infrastructure\\SmartTabbibk.Infrastructure.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.infrastructure\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7161D30E-C092-48C2-99D8-55C75B16C32E}|SmartTabbibk.Infrastructure\\SmartTabbibk.Infrastructure.csproj|solutionrelative:smarttabbibk.infrastructure\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7161D30E-C092-48C2-99D8-55C75B16C32E}|SmartTabbibk.Infrastructure\\SmartTabbibk.Infrastructure.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.infrastructure\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7161D30E-C092-48C2-99D8-55C75B16C32E}|SmartTabbibk.Infrastructure\\SmartTabbibk.Infrastructure.csproj|solutionrelative:smarttabbibk.infrastructure\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7161D30E-C092-48C2-99D8-55C75B16C32E}|SmartTabbibk.Infrastructure\\SmartTabbibk.Infrastructure.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7161D30E-C092-48C2-99D8-55C75B16C32E}|SmartTabbibk.Infrastructure\\SmartTabbibk.Infrastructure.csproj|solutionrelative:smarttabbibk.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7161D30E-C092-48C2-99D8-55C75B16C32E}|SmartTabbibk.Infrastructure\\SmartTabbibk.Infrastructure.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7161D30E-C092-48C2-99D8-55C75B16C32E}|SmartTabbibk.Infrastructure\\SmartTabbibk.Infrastructure.csproj|solutionrelative:smarttabbibk.infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7161D30E-C092-48C2-99D8-55C75B16C32E}|SmartTabbibk.Infrastructure\\SmartTabbibk.Infrastructure.csproj|f:\\third_level\\assigmments\\smarttabbibk\\smarttabbibk.infrastructure\\migrations\\20260820220247_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7161D30E-C092-48C2-99D8-55C75B16C32E}|SmartTabbibk.Infrastructure\\SmartTabbibk.Infrastructure.csproj|solutionrelative:smarttabbibk.infrastructure\\migrations\\20260820220247_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BatchEvaluator.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.AI.Training\\BatchEvaluator.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.AI.Training\\BatchEvaluator.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.AI.Training\\BatchEvaluator.cs",
+              "RelativeToolTip": "SmartTabbibk.AI.Training\\BatchEvaluator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T23:08:21.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SmartTabbibk.Desktop.csproj",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Desktop\\SmartTabbibk.Desktop.csproj",
+              "RelativeDocumentMoniker": "SmartTabbibk.Desktop\\SmartTabbibk.Desktop.csproj",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Desktop\\SmartTabbibk.Desktop.csproj",
+              "RelativeToolTip": "SmartTabbibk.Desktop\\SmartTabbibk.Desktop.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-10T12:34:45.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SmartTabbibk.Domain.csproj",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj",
+              "RelativeDocumentMoniker": "SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj",
+              "RelativeToolTip": "SmartTabbibk.Domain\\SmartTabbibk.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-14T19:58:05.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SmartTabbibk.Infrastructure.csproj",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Infrastructure\\SmartTabbibk.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "SmartTabbibk.Infrastructure\\SmartTabbibk.Infrastructure.csproj",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Infrastructure\\SmartTabbibk.Infrastructure.csproj",
+              "RelativeToolTip": "SmartTabbibk.Infrastructure\\SmartTabbibk.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-12T17:11:19.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.AI.Training\\Program.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.AI.Training\\Program.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.AI.Training\\Program.cs",
+              "RelativeToolTip": "SmartTabbibk.AI.Training\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T11:50:12.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PriorityModels.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.AI.Training\\PriorityModels.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.AI.Training\\PriorityModels.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.AI.Training\\PriorityModels.cs",
+              "RelativeToolTip": "SmartTabbibk.AI.Training\\PriorityModels.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T17:39:17.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.API\\appsettings.json",
+              "RelativeDocumentMoniker": "SmartTabbibk.API\\appsettings.json",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.API\\appsettings.json",
+              "RelativeToolTip": "SmartTabbibk.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-20T12:32:47.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SmartTabbibk.AI.Training.csproj",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.AI.Training\\SmartTabbibk.AI.Training.csproj",
+              "RelativeDocumentMoniker": "SmartTabbibk.AI.Training\\SmartTabbibk.AI.Training.csproj",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.AI.Training\\SmartTabbibk.AI.Training.csproj",
+              "RelativeToolTip": "SmartTabbibk.AI.Training\\SmartTabbibk.AI.Training.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-12T17:14:32.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SmartTabbibk.API\\appsettings.Development.json",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.API\\appsettings.Development.json",
+              "RelativeToolTip": "SmartTabbibk.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-12T18:18:03.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AIPriorityEvaluator.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Infrastructure\\Services\\AIPriorityEvaluator.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Infrastructure\\Services\\AIPriorityEvaluator.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Infrastructure\\Services\\AIPriorityEvaluator.cs",
+              "RelativeToolTip": "SmartTabbibk.Infrastructure\\Services\\AIPriorityEvaluator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T18:46:18.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "SmartTabbibk.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAswC8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T19:53:24.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SmartTabbibk.API.csproj",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.API\\SmartTabbibk.API.csproj",
+              "RelativeDocumentMoniker": "SmartTabbibk.API\\SmartTabbibk.API.csproj",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.API\\SmartTabbibk.API.csproj",
+              "RelativeToolTip": "SmartTabbibk.API\\SmartTabbibk.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-12T12:00:03.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Desktop\\App.xaml",
+              "RelativeDocumentMoniker": "SmartTabbibk.Desktop\\App.xaml",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Desktop\\App.xaml",
+              "RelativeToolTip": "SmartTabbibk.Desktop\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-12T17:29:05.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SmartTabbibk.Application.csproj",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Application\\SmartTabbibk.Application.csproj",
+              "RelativeDocumentMoniker": "SmartTabbibk.Application\\SmartTabbibk.Application.csproj",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Application\\SmartTabbibk.Application.csproj",
+              "RelativeToolTip": "SmartTabbibk.Application\\SmartTabbibk.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-14T19:59:02.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "SmartTabbibk.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAA3wA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T22:10:19.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SmartTabbibk.API.http",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.API\\SmartTabbibk.API.http",
+              "RelativeDocumentMoniker": "SmartTabbibk.API\\SmartTabbibk.API.http",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.API\\SmartTabbibk.API.http",
+              "RelativeToolTip": "SmartTabbibk.API\\SmartTabbibk.API.http",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-09-11T18:39:09.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApiIntegrationTests.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Tests\\IntegrationTests\\ApiIntegrationTests.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Tests\\IntegrationTests\\ApiIntegrationTests.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Tests\\IntegrationTests\\ApiIntegrationTests.cs",
+              "RelativeToolTip": "SmartTabbibk.Tests\\IntegrationTests\\ApiIntegrationTests.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T19:05:37.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ManualPriorityEvaluator.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Infrastructure\\Services\\ManualPriorityEvaluator.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Infrastructure\\Services\\ManualPriorityEvaluator.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Infrastructure\\Services\\ManualPriorityEvaluator.cs",
+              "RelativeToolTip": "SmartTabbibk.Infrastructure\\Services\\ManualPriorityEvaluator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T22:10:49.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.API\\Program.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.API\\Program.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.API\\Program.cs",
+              "RelativeToolTip": "SmartTabbibk.API\\Program.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAAFUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T12:32:52.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CatalogServices.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Desktop\\Services\\CatalogServices.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Desktop\\Services\\CatalogServices.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Desktop\\Services\\CatalogServices.cs",
+              "RelativeToolTip": "SmartTabbibk.Desktop\\Services\\CatalogServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T19:17:46.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Infrastructure\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Infrastructure\\Services\\TokenService.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Infrastructure\\Services\\TokenService.cs",
+              "RelativeToolTip": "SmartTabbibk.Infrastructure\\Services\\TokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T22:10:56.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Infrastructure\\Services\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Infrastructure\\Services\\PasswordHasher.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Infrastructure\\Services\\PasswordHasher.cs",
+              "RelativeToolTip": "SmartTabbibk.Infrastructure\\Services\\PasswordHasher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T22:10:52.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Desktop\\Services\\DoctorService.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Desktop\\Services\\DoctorService.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Desktop\\Services\\DoctorService.cs",
+              "RelativeToolTip": "SmartTabbibk.Desktop\\Services\\DoctorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T19:18:21.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Desktop\\App.xaml.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Desktop\\App.xaml.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Desktop\\App.xaml.cs",
+              "RelativeToolTip": "SmartTabbibk.Desktop\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T19:18:44.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SmartTabbibk.API\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SmartTabbibk.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-10T19:48:30.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Desktop\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Desktop\\Services\\AuthService.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Desktop\\Services\\AuthService.cs",
+              "RelativeToolTip": "SmartTabbibk.Desktop\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T19:17:35.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CatalogModels.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Desktop\\Models\\CatalogModels.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Desktop\\Models\\CatalogModels.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Desktop\\Models\\CatalogModels.cs",
+              "RelativeToolTip": "SmartTabbibk.Desktop\\Models\\CatalogModels.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T19:17:09.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DoctorModels.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Desktop\\Models\\DoctorModels.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Desktop\\Models\\DoctorModels.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Desktop\\Models\\DoctorModels.cs",
+              "RelativeToolTip": "SmartTabbibk.Desktop\\Models\\DoctorModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T19:17:05.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApiClient.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Desktop\\Services\\ApiClient.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Desktop\\Services\\ApiClient.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Desktop\\Services\\ApiClient.cs",
+              "RelativeToolTip": "SmartTabbibk.Desktop\\Services\\ApiClient.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAA3wCsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T12:34:56.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "RelativeToolTip": "SmartTabbibk.Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T11:54:32.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IMedicineService.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Application\\Interfaces\\IMedicineService.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Application\\Interfaces\\IMedicineService.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Application\\Interfaces\\IMedicineService.cs",
+              "RelativeToolTip": "SmartTabbibk.Application\\Interfaces\\IMedicineService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T11:16:42.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppointmentServiceTests.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Tests\\UnitTests\\AppointmentServiceTests.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Tests\\UnitTests\\AppointmentServiceTests.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Tests\\UnitTests\\AppointmentServiceTests.cs",
+              "RelativeToolTip": "SmartTabbibk.Tests\\UnitTests\\AppointmentServiceTests.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAAAIAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T18:20:59.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "SmartTabbibk.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T20:35:20.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FakeAppointmentRepository.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Tests\\Fakes\\FakeAppointmentRepository.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Tests\\Fakes\\FakeAppointmentRepository.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Tests\\Fakes\\FakeAppointmentRepository.cs",
+              "RelativeToolTip": "SmartTabbibk.Tests\\Fakes\\FakeAppointmentRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACkAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T18:15:48.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OtherFakes.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Tests\\Fakes\\OtherFakes.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Tests\\Fakes\\OtherFakes.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Tests\\Fakes\\OtherFakes.cs",
+              "RelativeToolTip": "SmartTabbibk.Tests\\Fakes\\OtherFakes.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T18:18:18.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MedicineServiceTests.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Tests\\UnitTests\\MedicineServiceTests.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Tests\\UnitTests\\MedicineServiceTests.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Tests\\UnitTests\\MedicineServiceTests.cs",
+              "RelativeToolTip": "SmartTabbibk.Tests\\UnitTests\\MedicineServiceTests.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T18:23:51.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MedicineDtos.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Application\\DTOs\\Medicines\\MedicineDtos.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Application\\DTOs\\Medicines\\MedicineDtos.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Application\\DTOs\\Medicines\\MedicineDtos.cs",
+              "RelativeToolTip": "SmartTabbibk.Application\\DTOs\\Medicines\\MedicineDtos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T20:41:07.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.API\\Controllers\\AuthController.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SmartTabbibk.API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA4wBMAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T12:32:39.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MedicalRecordDtos.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Application\\DTOs\\MedicalRecords\\MedicalRecordDtos.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Application\\DTOs\\MedicalRecords\\MedicalRecordDtos.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Application\\DTOs\\MedicalRecords\\MedicalRecordDtos.cs",
+              "RelativeToolTip": "SmartTabbibk.Application\\DTOs\\MedicalRecords\\MedicalRecordDtos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T20:40:56.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PrescriptionDtos.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Application\\DTOs\\Prescriptions\\PrescriptionDtos.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Application\\DTOs\\Prescriptions\\PrescriptionDtos.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Application\\DTOs\\Prescriptions\\PrescriptionDtos.cs",
+              "RelativeToolTip": "SmartTabbibk.Application\\DTOs\\Prescriptions\\PrescriptionDtos.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA5wBoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T20:41:15.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PrescriptionsController.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.API\\Controllers\\PrescriptionsController.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.API\\Controllers\\PrescriptionsController.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.API\\Controllers\\PrescriptionsController.cs",
+              "RelativeToolTip": "SmartTabbibk.API\\Controllers\\PrescriptionsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T21:20:31.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IMedicalRecordRepository.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Domain\\Interfaces\\IMedicalRecordRepository.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Domain\\Interfaces\\IMedicalRecordRepository.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Domain\\Interfaces\\IMedicalRecordRepository.cs",
+              "RelativeToolTip": "SmartTabbibk.Domain\\Interfaces\\IMedicalRecordRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T18:13:45.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ISpecialtyRepository.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Domain\\Interfaces\\ISpecialtyRepository.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Domain\\Interfaces\\ISpecialtyRepository.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Domain\\Interfaces\\ISpecialtyRepository.cs",
+              "RelativeToolTip": "SmartTabbibk.Domain\\Interfaces\\ISpecialtyRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T21:23:18.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IMedicineRepository.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Domain\\Interfaces\\IMedicineRepository.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Domain\\Interfaces\\IMedicineRepository.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Domain\\Interfaces\\IMedicineRepository.cs",
+              "RelativeToolTip": "SmartTabbibk.Domain\\Interfaces\\IMedicineRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T18:15:56.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "SmartTabbibk.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T20:34:22.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Domain\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "SmartTabbibk.Domain\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T18:16:36.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IReviewRepository.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Domain\\Interfaces\\IReviewRepository.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Domain\\Interfaces\\IReviewRepository.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Domain\\Interfaces\\IReviewRepository.cs",
+              "RelativeToolTip": "SmartTabbibk.Domain\\Interfaces\\IReviewRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T18:16:32.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IDoctorRepository.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Domain\\Interfaces\\IDoctorRepository.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Domain\\Interfaces\\IDoctorRepository.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Domain\\Interfaces\\IDoctorRepository.cs",
+              "RelativeToolTip": "SmartTabbibk.Domain\\Interfaces\\IDoctorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T18:15:48.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IAppointmentRepository.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Domain\\Interfaces\\IAppointmentRepository.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Domain\\Interfaces\\IAppointmentRepository.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Domain\\Interfaces\\IAppointmentRepository.cs",
+              "RelativeToolTip": "SmartTabbibk.Domain\\Interfaces\\IAppointmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T20:04:54.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Domain\\Entities\\User.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "SmartTabbibk.Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T18:13:41.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Specialty.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Domain\\Entities\\Specialty.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Domain\\Entities\\Specialty.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Domain\\Entities\\Specialty.cs",
+              "RelativeToolTip": "SmartTabbibk.Domain\\Entities\\Specialty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T18:13:24.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Review.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Domain\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Domain\\Entities\\Review.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Domain\\Entities\\Review.cs",
+              "RelativeToolTip": "SmartTabbibk.Domain\\Entities\\Review.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T18:13:23.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Prescription.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Domain\\Entities\\Prescription.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Domain\\Entities\\Prescription.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Domain\\Entities\\Prescription.cs",
+              "RelativeToolTip": "SmartTabbibk.Domain\\Entities\\Prescription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T18:13:20.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Domain\\Entities\\Patient.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Domain\\Entities\\Patient.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Domain\\Entities\\Patient.cs",
+              "RelativeToolTip": "SmartTabbibk.Domain\\Entities\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T18:13:16.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Domain\\Entities\\Notification.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Domain\\Entities\\Notification.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Domain\\Entities\\Notification.cs",
+              "RelativeToolTip": "SmartTabbibk.Domain\\Entities\\Notification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T20:05:31.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Domain\\Entities\\Doctor.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Domain\\Entities\\Doctor.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Domain\\Entities\\Doctor.cs",
+              "RelativeToolTip": "SmartTabbibk.Domain\\Entities\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T18:12:29.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Domain\\Entities\\Enums.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Domain\\Entities\\Enums.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Domain\\Entities\\Enums.cs",
+              "RelativeToolTip": "SmartTabbibk.Domain\\Entities\\Enums.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T20:11:18.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Domain\\Entities\\Appointment.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Domain\\Entities\\Appointment.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Domain\\Entities\\Appointment.cs",
+              "RelativeToolTip": "SmartTabbibk.Domain\\Entities\\Appointment.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA+wBkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T18:12:34.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Application\\DependencyInjection.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "SmartTabbibk.Application\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T12:31:09.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AdminDtos.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Application\\DTOs\\Doctors\\AdminDtos.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Application\\DTOs\\Doctors\\AdminDtos.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Application\\DTOs\\Doctors\\AdminDtos.cs",
+              "RelativeToolTip": "SmartTabbibk.Application\\DTOs\\Doctors\\AdminDtos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T20:40:47.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AppointmentDtos.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Application\\DTOs\\Appointments\\AppointmentDtos.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Application\\DTOs\\Appointments\\AppointmentDtos.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Application\\DTOs\\Appointments\\AppointmentDtos.cs",
+              "RelativeToolTip": "SmartTabbibk.Application\\DTOs\\Appointments\\AppointmentDtos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T20:40:33.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "LoginDtos.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Application\\DTOs\\Auth\\LoginDtos.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Application\\DTOs\\Auth\\LoginDtos.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Application\\DTOs\\Auth\\LoginDtos.cs",
+              "RelativeToolTip": "SmartTabbibk.Application\\DTOs\\Auth\\LoginDtos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T18:59:08.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Application\\Features\\Auth\\AuthService.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Application\\Features\\Auth\\AuthService.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Application\\Features\\Auth\\AuthService.cs",
+              "RelativeToolTip": "SmartTabbibk.Application\\Features\\Auth\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T18:59:29.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "MedicalRecord.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Domain\\Entities\\MedicalRecord.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Domain\\Entities\\MedicalRecord.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Domain\\Entities\\MedicalRecord.cs",
+              "RelativeToolTip": "SmartTabbibk.Domain\\Entities\\MedicalRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T20:05:23.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20260820214224_InitialCreate.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Infrastructure\\Migrations\\20260820214224_InitialCreate.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Infrastructure\\Migrations\\20260820214224_InitialCreate.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Infrastructure\\Migrations\\20260820214224_InitialCreate.cs",
+              "RelativeToolTip": "SmartTabbibk.Infrastructure\\Migrations\\20260820214224_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T21:42:25.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20260820215516_InitialCreate.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Infrastructure\\Migrations\\20260820215516_InitialCreate.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Infrastructure\\Migrations\\20260820215516_InitialCreate.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Infrastructure\\Migrations\\20260820215516_InitialCreate.cs",
+              "RelativeToolTip": "SmartTabbibk.Infrastructure\\Migrations\\20260820215516_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T21:55:16.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20260820220247_InitialCreate.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Infrastructure\\Migrations\\20260820220247_InitialCreate.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Infrastructure\\Migrations\\20260820220247_InitialCreate.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Infrastructure\\Migrations\\20260820220247_InitialCreate.cs",
+              "RelativeToolTip": "SmartTabbibk.Infrastructure\\Migrations\\20260820220247_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T22:02:47.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "RegisterDtos.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Application\\DTOs\\Auth\\RegisterDtos.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Application\\DTOs\\Auth\\RegisterDtos.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Application\\DTOs\\Auth\\RegisterDtos.cs",
+              "RelativeToolTip": "SmartTabbibk.Application\\DTOs\\Auth\\RegisterDtos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T18:59:12.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Application\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "SmartTabbibk.Application\\Interfaces\\ITokenService.cs",
+              "ToolTip": "F:\\Third_Level\\Assigmments\\SmartTabbibk\\SmartTabbibk.Application\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "SmartTabbibk.Application\\Interfaces\\ITokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T19:00:07.999Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

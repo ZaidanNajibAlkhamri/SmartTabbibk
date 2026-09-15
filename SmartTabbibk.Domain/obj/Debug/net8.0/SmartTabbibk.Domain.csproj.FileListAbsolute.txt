@@ -1,0 +1,11 @@
+F:\Third_Level\Assigmments\SmartTabbibk\SmartTabbibk.Domain\bin\Debug\net8.0\SmartTabbibk.Domain.deps.json
+F:\Third_Level\Assigmments\SmartTabbibk\SmartTabbibk.Domain\bin\Debug\net8.0\SmartTabbibk.Domain.dll
+F:\Third_Level\Assigmments\SmartTabbibk\SmartTabbibk.Domain\bin\Debug\net8.0\SmartTabbibk.Domain.pdb
+F:\Third_Level\Assigmments\SmartTabbibk\SmartTabbibk.Domain\obj\Debug\net8.0\SmartTabbibk.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Third_Level\Assigmments\SmartTabbibk\SmartTabbibk.Domain\obj\Debug\net8.0\SmartTabbibk.Domain.AssemblyInfoInputs.cache
+F:\Third_Level\Assigmments\SmartTabbibk\SmartTabbibk.Domain\obj\Debug\net8.0\SmartTabbibk.Domain.AssemblyInfo.cs
+F:\Third_Level\Assigmments\SmartTabbibk\SmartTabbibk.Domain\obj\Debug\net8.0\SmartTabbibk.Domain.csproj.CoreCompileInputs.cache
+F:\Third_Level\Assigmments\SmartTabbibk\SmartTabbibk.Domain\obj\Debug\net8.0\SmartTabbibk.Domain.dll
+F:\Third_Level\Assigmments\SmartTabbibk\SmartTabbibk.Domain\obj\Debug\net8.0\refint\SmartTabbibk.Domain.dll
+F:\Third_Level\Assigmments\SmartTabbibk\SmartTabbibk.Domain\obj\Debug\net8.0\SmartTabbibk.Domain.pdb
+F:\Third_Level\Assigmments\SmartTabbibk\SmartTabbibk.Domain\obj\Debug\net8.0\ref\SmartTabbibk.Domain.dll

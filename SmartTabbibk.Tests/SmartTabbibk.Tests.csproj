@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <IsPackable>false</IsPackable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.11.1" />
+    <PackageReference Include="xunit" Version="2.9.0" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.8.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Testing" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SmartTabbibk.Domain\SmartTabbibk.Domain.csproj" />
+    <ProjectReference Include="..\SmartTabbibk.Application\SmartTabbibk.Application.csproj" />
+    <ProjectReference Include="..\SmartTabbibk.Infrastructure\SmartTabbibk.Infrastructure.csproj" />
+    <ProjectReference Include="..\SmartTabbibk.API\SmartTabbibk.API.csproj" />
+  </ItemGroup>
+
+</Project>
